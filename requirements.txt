@@ -1,0 +1,7 @@
+openai
+langchain_community
+langchain_openai
+langfuse
+pydantic
+dotenv
+python-telegram-bot>=20.0
